@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CoreBankingAppYT.Domain": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\name\\Desktop"
+    }
+  }
+}
